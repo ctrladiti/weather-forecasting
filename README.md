@@ -114,7 +114,7 @@ This project demonstrates:
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 * [Open-Meteo](https://open-meteo.com/) for weather data
 * [Geopy](https://pypi.org/project/geopy/) for city-to-coordinate conversion
