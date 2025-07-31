@@ -1,10 +1,10 @@
-# 🌦️ Weather Forecasting Dashboard
+# Weather Forecasting Dashboard
 
 A real-time, interactive dashboard to visualize temperature, wind speed, humidity, and other forecast data for any city worldwide — powered by Open-Meteo API and built using Streamlit and Python.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project allows users to:
 
@@ -15,7 +15,7 @@ This project allows users to:
 
 ---
 
-## 🚀 Features
+## Features
 
 - Input any global city (via geolocation lookup)
 - Select number of forecast days (1 to 7)
@@ -26,7 +26,7 @@ This project allows users to:
 
 ---
 
-## 🖼️ Demo
+## Demo
 
 <img src="assets/demo_dashboard.png" alt="Weather Forecasting Dashboard Demo" width="800"/>
 
@@ -34,7 +34,7 @@ This project allows users to:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer       | Tools & Libraries                         |
 | ----------- | ----------------------------------------- |
@@ -46,7 +46,7 @@ This project allows users to:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 weather-dashboard/
@@ -58,7 +58,7 @@ weather-dashboard/
 
 ---
 
-## 🧪 How to Run Locally
+## How to Run Locally
 
 ### 1. Clone the Repo
 
@@ -81,7 +81,7 @@ streamlit run app.py
 
 ---
 
-## 📦 API Used – Open-Meteo
+## API Used – Open-Meteo
 
 * Fully free and open
 * Supports hourly and daily forecast data
@@ -92,7 +92,7 @@ streamlit run app.py
 
 ---
 
-## 🌍 Future Enhancements
+## Future Enhancements
 
 * [ ] Add map-based city picker
 * [ ] Enable weather condition icons (rainy, sunny, etc.)
@@ -102,7 +102,7 @@ streamlit run app.py
 
 ---
 
-## 📌 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates:
 
@@ -122,7 +122,7 @@ This project demonstrates:
 
 ---
 
-## 💼 Author
+## Author
 
 **Aditi Agrawal**
 [GitHub](https://github.com/Aditi-1304) | [LinkedIn](https://www.linkedin.com) | [Portfolio](https://your-portfolio-link)
